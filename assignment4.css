@@ -96,3 +96,22 @@ input:-moz-placeholder {
   line-height: 45px;
   text-align: center;
 }
+
+#inputSuggestions {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 26px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  color: #888;
+}
+
+#inputSuggestions  a {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 26px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  color: #888;
+}
+#inputSuggestions li {
+  list-style: none;
+}
